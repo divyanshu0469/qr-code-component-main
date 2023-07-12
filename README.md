@@ -22,7 +22,7 @@ Creating a qr code page for website.
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/divyanshu0469/qr-code-component-main)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL]([https://your-live-site-url.com](https://qr-code-component-main-tau-amber.vercel.app/))
 
 ### Built with
 
